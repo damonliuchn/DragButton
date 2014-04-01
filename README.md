@@ -5,4 +5,4 @@
 
 ##截图
 
-![image](https://github.com/mentor811/Demo_DragButton/raw/master/doc/5.png)
+![image](https://github.com/mentor811/Demo_DragButton/raw/master/doc/dragbutton.png)
