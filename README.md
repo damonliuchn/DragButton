@@ -19,5 +19,5 @@ Demo_DragButton 是可以随机摆放并且随意拖动的Button。
 ------
 ##欢迎批评指正
 
-博客：http://www.dd544.com
+博客：http://blog.csdn.net/masonblog
 邮箱：MasonLiuChn@gmail.com
